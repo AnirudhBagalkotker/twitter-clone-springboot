@@ -14,3 +14,7 @@ buildNumber.properties
 .idea/
 .vscode/
 .mvn/
+HELP.md
+mvnw.cmd
+mvnw
+
